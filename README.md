@@ -61,7 +61,3 @@ that made this project possible; and
 - [Dr. Badari Nath K](https://www.youtube.com/@drkbadarinath4636)
 
 for providing us with this opportunity and his excellent guidance and support.
-
----
-
-Happy defusing! 🚀
